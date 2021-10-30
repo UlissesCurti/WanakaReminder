@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wanaka Lembretes</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="first_fragment_label">Wanaka Lembretes</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Próximo</string>
+    <string name="previous">Anterior</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="item_view_next">próximo:</string>
+    <string name="item_view_harvest">colheita:</string>
+    <string name="item_view_start">Iniciar</string>
+    <string name="item_view_stop">Parar</string>
+    <string name="item_view_finish">Finalizar</string>
+    <string name="harvest">Colher</string>
+
+    <string name="stop_dialog_message">Você tem certeza que quer encerrar?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>

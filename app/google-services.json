@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8418371578",
+    "project_id": "wanaka-reminder",
+    "storage_bucket": "wanaka-reminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8418371578:android:04d1f1912c5ce157f5a643",
+        "android_client_info": {
+          "package_name": "com.uldroid.wanakareminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8418371578-evmobdrvp2nik8090db8b4h20fp9rof1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9EwZ-axYfDbwGcpF0e4nrdh6Pj4tYx4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8418371578-evmobdrvp2nik8090db8b4h20fp9rof1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

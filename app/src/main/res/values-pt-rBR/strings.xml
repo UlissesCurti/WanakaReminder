@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Wanaka Lembretes</string>
-    <string name="action_settings">Configurações</string>
+    <string name="action_settings">Informação</string>
 
     <string name="first_fragment_label">Wanaka Lembretes</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -21,4 +21,7 @@
     <string name="stop_dialog_message">Você tem certeza que quer encerrar?</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>
+
+    <string name="info_text">Este é um app gratuito feito com amor pelo seu desenvolvedor. Se você está se sentindo bondoso hoje, doe e me ajude a desenvolver mais apps gratuitos.</string>
+    <string name="wallet_address_copied">Endereço da wallet copiado</string>
 </resources>

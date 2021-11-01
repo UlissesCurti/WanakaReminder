@@ -1,6 +1,8 @@
 <resources>
+    <string name="wallet_address" translatable="false">0x51c680E52f89a9dba95E8D2559dDe3b71d9fd46E</string>
+
     <string name="app_name">Wanaka Reminder</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">About</string>
 
     <string name="first_fragment_label">Wanaka Reminder</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -20,4 +22,8 @@
     <string name="stop_dialog_message">Are you sure you want to stop?</string>
     <string name="yes">Yes</string>
     <string name="no">Hell no</string>
+    <string name="ok" translatable="false">OK</string>
+    
+    <string name="info_text">This is a free app made with love by your developer. If you are feeling kind today donate and help me develop more free apps.</string>
+    <string name="wallet_address_copied">Wallet address copied</string>
 </resources>

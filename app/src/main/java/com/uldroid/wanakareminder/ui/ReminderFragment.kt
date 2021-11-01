@@ -86,6 +86,5 @@ class ReminderFragment : Fragment(), ReminderAdapter.Delegate {
             }
             .setMessage(R.string.stop_dialog_message)
             ?.show()
-
     }
 }
